@@ -9,7 +9,7 @@ function Model(){
     <div class="profile">
       <div class="profile_container">
         <div class="profile_profileImg">
-        <img className="image" src={img1} alt="shaif arfan"></img>
+        <img className="image" src={img1} alt="noble"></img>
           
         </div>
         <div>
